@@ -1,7 +1,7 @@
 package org.oxyl;
 
 //hello
-//ahahahaehehehheeh
+//hello
 abstract class AUnCentre {
     private Point centre;
 
